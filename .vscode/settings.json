@@ -1,0 +1,6 @@
+{
+    "ruby.rubocop.configFilePath": "/Users/caeser/.rvm/gems/ruby-2.6.5/bin/rubocop",
+    "ruby.rubocop.executePath": "/Users/caeser/.rvm/gems/ruby-2.6.5/bin/rubocop",
+    "ruby.rubocop.useBundler": true,
+    "ruby.rubocop.suppressRubocopWarnings": true
+}
